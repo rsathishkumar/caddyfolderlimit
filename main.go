@@ -1,4 +1,4 @@
-package caddy_folder_limit
+package caddyfolderlimit
 
 import (
     "fmt"
