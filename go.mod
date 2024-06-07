@@ -1,4 +1,4 @@
-module github.com/rsathishkumar/caddy-folder-limit
+module github.com/rsathishkumar/caddyfolderlimit
 
 go 1.22.3
 
